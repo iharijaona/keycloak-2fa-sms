@@ -1,0 +1,8 @@
+.idea
+*.iml
+config
+target
+copy.sh
+dependency-reduced-pom.xml
+.m2
+.DS_Store
